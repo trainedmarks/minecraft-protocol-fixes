@@ -37,11 +37,14 @@ For safety, the script automatically creates backup copies of the original chat.
 
 3. Make It Executable  
    Open your terminal, navigate to your project’s root directory, and run:  
-   chmod +x fix-minecraft-protocol-modules.sh
-
+  ```bash 
+ chmod +x fix-minecraft-protocol-modules.sh
+```
 4. Run the Script  
    From the same directory, execute:  
-   ./fix-minecraft-protocol-modules.sh  
+```bash
+ ./fix-minecraft-protocol-modules.sh  
+   ```
    The script will display its progress and confirm successful application of the fixes.
 
 5. Restart Your Application  
